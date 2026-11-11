@@ -1,0 +1,26 @@
+# Visual Studio user-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio cache and generated files
+*.cache
+*.pdb
+*.ilk
+*.log
+
+# Test results
+[Tt]est[Rr]esult*/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
